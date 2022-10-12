@@ -32,7 +32,7 @@
 * GPU 사용을 위해 코랩 사용. django 연동이 어려워 감성분석 시 코랩을 따로 돌려야함 
 
 <hr/>
-* 웹 
+* 웹 구현
    - https://youtu.be/IbBLReG15Gs
 
 
